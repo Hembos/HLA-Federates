@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<objectModel>
+    <objects>
+        <objectClass name="Model">
+            <attribute name="Y" transportation="HLAreliable" order="TimeStamp" />
+        </objectClass>
+
+        <objectClass name="Time">
+            <attribute name="DT" transportation="HLAreliable" order="TimeStamp" />
+        </objectClass>
+    </objects>
+</objectModel>

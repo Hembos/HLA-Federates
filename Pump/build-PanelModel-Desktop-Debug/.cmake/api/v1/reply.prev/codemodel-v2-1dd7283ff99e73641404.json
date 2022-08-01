@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5bf7a5911582107acebc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PanelModel",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PanelModel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PanelModel-Debug-3a2f847f0c61a27074da.json",
+					"name" : "PanelModel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PanelModel_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PanelModel_autogen-Debug-2d96a8d3b8aea6b2de2c.json",
+					"name" : "PanelModel_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/artur/Documents/Programs/CERTI-master/test/Pump/build-PanelModel-Desktop-Debug",
+		"source" : "/home/artur/Documents/Programs/CERTI-master/test/Pump/PanelModel"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

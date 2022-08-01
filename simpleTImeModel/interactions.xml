@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<objectModel>
+    <interactions>
+        <interactionClass name="ModelParameters" transportation="HLAreliable" order="TimeStamp">
+            <parameter name="k" />
+            <parameter name="CMD_RESET" />
+        </interactionClass>
+    </interactions>
+</objectModel>

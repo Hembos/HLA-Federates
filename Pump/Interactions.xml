@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<objectModel>
+    <interactions>
+        <interactionClass name="ChangeAttrs" transportation="HLAreliable" order="TimeStamp">
+            <parameter name="dx1" />
+            <parameter name="dx2" />
+        </interactionClass>
+    </interactions>
+</objectModel>

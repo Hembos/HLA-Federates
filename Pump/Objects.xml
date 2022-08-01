@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<objectModel>
+    <objects>
+        <objectClass name="Pump">
+            <attribute name="atr1" transportation="HLAreliable" order="TimeStamp" />
+            <attribute name="atr2" transportation="HLAreliable" order="TimeStamp" />
+        </objectClass>
+    </objects>
+</objectModel>
